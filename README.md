@@ -1,4 +1,4 @@
 zabava
 ======
 
-o com to je x y z 
+o com to je a b c 
